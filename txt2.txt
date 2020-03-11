@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 some changes
+=======
+some changes from github
+234432
+141321
